@@ -11,11 +11,12 @@ We take into consideration the inherent patterns in each share data time series 
 - _Contact Details_
 
 ## 📜 Files
-This project consists of 3 files other than this Readme:  
+This project consists of 5 files other than this Readme:  
 - A python  notebook containing the analysis (_Workplace_Project_v1.ipynb_)
 - The data exported from the notebook for checks (_data.xlsx_)
 - An excel workbook where the checks have been performed (_data-checks.xlsx_)
 - A requirements file to reproduce the environment locally (_requirements.txt_)
+- A Trello board to manage the project flow and timelines
 
 ## ⚙️ Recreating the Environment
 Reproduce the evironment in Python using:  
