@@ -48,10 +48,11 @@ This project applies these statistical models to Apple Inc. and Nvidia Corporati
 
 ## 📜 Files
 This project consists of 5 files other than this Readme:  
-- A python  notebook containing the analysis (_Workplace_Project_v1.ipynb_)
+- A python notebook containing the analysis (_Workplace_Project_v1.ipynb_)
 - The data exported from the notebook for checks (_data.xlsx_)
 - An excel workbook where the checks have been performed (_data-checks.xlsx_)
 - A requirements file to reproduce the environment locally (_requirements.txt_)
+- A presentation providing an overview of the project, results and conclusion
 - A link to a Trello board which is used to manage the project flow and timelines
 
 ## ⚙️ Recreating the Environment
