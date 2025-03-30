@@ -1,7 +1,7 @@
 #  Workplace-Project
 
 ## 🐍 Description
-Welcome to **Workplace Project** where statistical modeling meets portfolio risk forecasting. This project combines advanced analytical techniques, such as **ARIMA**, **GARCH**, and **Copula** models, to estimate portfolio metrics — **mean terminal value**, **standard deviation**, and **Value-at-Risk (VaR)**—for a portfolio consisting of two financial assets. By integrating these methods, we create a robust framework for assessing risk and managing investment strategies.
+Welcome to **Workplace Project** where statistical modeling meets portfolio risk forecasting. This project combines advanced analytical techniques, such as **ARIMA**, **GARCH**, and **Copula** models, to estimate portfolio metrics — **mean terminal value**, **standard deviation**, and **Value-at-Risk (VaR)** —for a portfolio consisting of two financial assets. By integrating these methods, we create a robust framework for assessing risk and managing investment strategies.
 We take into consideration the inherent patterns in each share data time series as well as the dependence structure between the two. 
 
 Prior to that data cleanup has been performed in excel.
