@@ -32,6 +32,8 @@ The project uses historical price data for Nvidia (NVDA) and Apple (AAPL) to mod
 - A powerful statistical tool for modeling dependency structures between the two shares.
 - Simulates the joint behavior of assets to assess portfolio dynamics and correlations.
 
+Together, these methods provide a comprehensive approach to portfolio forecasting by addressing trend prediction, volatility modeling, and dependency estimation—elements that individual models cannot fully capture on their own. This synergy allows for a more robust and adaptable framework for risk and return analysis.
+
 ## 🔍 Practical Applications
 This project applies these statistical models to Apple Inc. and Nvidia Corporation share data, exploring:
 - Portfolio Mean Value: Average projected portfolio terminal value based on simulations.
