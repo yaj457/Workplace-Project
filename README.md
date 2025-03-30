@@ -21,16 +21,16 @@ The project uses historical price data for Nvidia (NVDA) and Apple (AAPL) to mod
 
 ## 🧠 Core Methodologies
 1. ARIMA (AutoRegressive Integrated Moving Average):
-- Captures linear trends, patterns, and seasonality in the individual share time series data.
-- Forecasts future values based on historical data, enabling a deeper understanding of long-term asset behavior.
+  - Captures linear trends, patterns, and seasonality in the individual share time series data.
+  - Forecasts future values based on historical data, enabling a deeper understanding of long-term asset behavior.
 
 2. GARCH (Generalized Autoregressive Conditional Heteroskedasticity):
-- Models volatility clustering, which is common in financial markets, focusing on time-varying variance.
-- Provides crucial insights into the risk and uncertainty surrounding each asset.
+  - Models volatility clustering, which is common in financial markets, focusing on time-varying variance.
+  - Provides crucial insights into the risk and uncertainty surrounding each asset.
 
 3. Copula Models:
-- A powerful statistical tool for modeling dependency structures between the two shares.
-- Simulates the joint behavior of assets to assess portfolio dynamics and correlations.
+  - A powerful statistical tool for modeling dependency structures between the two shares.
+  - Simulates the joint behavior of assets to assess portfolio dynamics and correlations.
 
 Together, these methods provide a comprehensive approach to portfolio forecasting by addressing trend prediction, volatility modeling, and dependency estimation — elements that individual models cannot fully capture on their own. This synergy allows for a more robust and adaptable framework for risk and return analysis.
 
