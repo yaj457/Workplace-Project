@@ -2,9 +2,12 @@
 
 ## 🐍 Description
 Welcome to **Workplace Project** where statistical modeling meets portfolio risk forecasting. This project combines advanced analytical techniques, such as **ARIMA**, **GARCH**, and **Copula** models, to estimate portfolio metrics— **mean terminal value**, **standard deviation**, and **Value-at-Risk (VaR)**—for a portfolio consisting of two financial assets. By integrating these methods, we create a robust framework for assessing risk and managing investment strategies.
-We take into consideration the inherent patterns in each share data time series as well as the dependence structure between the two. Prior to that data cleanup has been performed in excel/
+We take into consideration the inherent patterns in each share data time series as well as the dependence structure between the two. 
+
+Prior to that data cleanup has been performed in excel/
 
 ## 📚 Table of Contents
+- _Data Used_
 - _Core Methodologies_
 - _Practical Applications_
 - _Project Goals_
@@ -12,6 +15,9 @@ We take into consideration the inherent patterns in each share data time series 
 - _Recreating the Environment_
 - _Contributing_
 - _Contact Details_
+
+## 🗞️ Data Used
+The project uses historical price data for Nvidia (NVDA) and Apple (AAPL) to model trends, volatility, and dependencies. The data for each are combined to build the portfolio of interest.
 
 ## 🧠 Core Methodologies
 1. ARIMA (AutoRegressive Integrated Moving Average):
