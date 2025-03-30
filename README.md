@@ -1,4 +1,4 @@
-#  Workplace-Project
+#  Workplace-Project: Forecasting the returns of a portfolio of 2 shares, taking into account their dependency structure
 
 ## 🐍 Description
 Welcome to **Workplace Project** where statistical modeling meets portfolio risk forecasting. This project combines advanced analytical techniques, such as **ARIMA**, **GARCH**, and **Copula** models, to estimate portfolio metrics — **mean terminal value**, **standard deviation**, and **Value-at-Risk (VaR)** —for a portfolio consisting of two financial assets. By integrating these methods, we create a robust framework for assessing risk and managing investment strategies.
