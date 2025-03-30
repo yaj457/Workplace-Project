@@ -1,14 +1,42 @@
 #  Workplace-Project
 
 ## 🐍 Description
-Welcome to **Workplace Project** This project is how to forecast the riskiness inherent from a portfolio constituting of two shares using a blend of statistical models and methods. 
+Welcome to **Workplace Project** where statistical modeling meets portfolio risk forecasting. This project combines advanced analytical techniques, such as **ARIMA**, **GARCH**, and **Copula** models, to estimate portfolio metrics— **mean terminal value**, **standard deviation**, and **Value-at-Risk (VaR)**—for a portfolio consisting of two financial assets. By integrating these methods, we create a robust framework for assessing risk and managing investment strategies.
 We take into consideration the inherent patterns in each share data time series as well as the dependence structure between the two. Prior to that data cleanup has been performed in excel/
 
 ## 📚 Table of Contents
+- _Core Methodologies_
+- _Practical Applications_
+- _Project Goals_
 - _Files_  
 - _Recreating the Environment_
 - _Contributing_
 - _Contact Details_
+
+## 🧠 Core Methodologies
+1. ARIMA (AutoRegressive Integrated Moving Average):
+- Captures linear trends, patterns, and seasonality in the individual share time series data.
+- Forecasts future values based on historical data, enabling a deeper understanding of long-term asset behavior.
+
+2. GARCH (Generalized Autoregressive Conditional Heteroskedasticity):
+- Models volatility clustering, which is common in financial markets, focusing on time-varying variance.
+- Provides crucial insights into the risk and uncertainty surrounding each asset.
+
+3. Copula Models:
+- A powerful statistical tool for modeling dependency structures between the two shares.
+- Simulates the joint behavior of assets to assess portfolio dynamics and correlations.
+
+## 🔍 Practical Applications
+This project applies these statistical models to Apple Inc. and Nvidia Corporation share data, exploring:
+- Portfolio Mean Value: Average projected portfolio terminal value based on simulations.
+- Standard Deviation: Measure of risk or variability in portfolio terminal values across simulations.
+- Value-at-Risk (VaR): Worst-case loss expected at a specified confidence level (e.g., 95%).
+
+## 🚀 Project Goals
+- To enable risk forecasting for a portfolio under normal market conditions.
+- To provide tools for optimal portfolio allocation, balancing risk and return through weighted simulations.
+- To simulate scenarios and dependencies for robust financial decision-making.
+  
 
 ## 📜 Files
 This project consists of 5 files other than this Readme:  
