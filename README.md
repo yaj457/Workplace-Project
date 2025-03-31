@@ -53,7 +53,7 @@ This project consists of 5 files other than this Readme:
 - An excel workbook where the checks have been performed (_data-checks.xlsx_)
 - A requirements file to reproduce the environment locally (_requirements.txt_)
 - A presentation providing an overview of the project, results and conclusion in pptx and pdf formats (_Workplace_project presentation.pptx_ & _Workplace_project presentation.pdf_)
-- A link to a Trello board which is used to manage the project flow and timelines
+- A link to a Trello board which is used to manage the project flow and timelines as well as a screenshot of the Board (_Trello Board Link.txt_ & _Trello Screenshot.PNG_)
 
 ## ⚙️ Recreating the Environment
 Reproduce the evironment in Python using:  
