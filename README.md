@@ -52,7 +52,7 @@ This project consists of 5 files other than this Readme:
 - The data exported from the notebook for checks (_data.xlsx_)
 - An excel workbook where the checks have been performed (_data-checks.xlsx_)
 - A requirements file to reproduce the environment locally (_requirements.txt_)
-- A presentation providing an overview of the project, results and conclusion
+- A presentation providing an overview of the project, results and conclusion in pptx and pdf formats (_Workplace_project presentation.pptx_ & _Workplace_project presentation.pdf_)
 - A link to a Trello board which is used to manage the project flow and timelines
 
 ## ⚙️ Recreating the Environment
